@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Mesele Araba - [Github](https://github.com/meserezort/) / 
-Ezana W/mariam - [Github](https://github.com/jhuang10123) /  
+Ezana W/mariam - [Github](https://github.com/ezana73) /  
 
 
 Second part of Airbnb: Joann Vuong
